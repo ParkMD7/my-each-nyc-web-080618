@@ -5,7 +5,7 @@ def my_each(array)
   counter = 0
   
   while counter < array.length
-    "I'm number #{my_each[index+1]} in this array."
+    yield(collection[i])
     counter += 1
   end
   
