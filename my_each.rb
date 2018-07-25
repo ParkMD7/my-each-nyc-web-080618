@@ -5,6 +5,7 @@ def my_each(array)
   counter = 0
   
   while my_each(array) < 6
+  "I'm putting a pair of shoes away."
   
   
 end
