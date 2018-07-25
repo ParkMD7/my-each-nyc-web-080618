@@ -6,6 +6,7 @@ def my_each(array)
   
   while counter < 6
     "I'm number #{my_each[index+1]} in this array."
-  
+    counter += 1
+  end
   
 end
